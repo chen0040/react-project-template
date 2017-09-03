@@ -5,6 +5,6 @@ You can use this project template as the starting point for your React web app d
 
 Features
 
-# React, Redux, React-Router
-# Bootstrap, JQuery
-# Webpack, Mocha
+* React, Redux, React-Router
+* Bootstrap, JQuery
+* Webpack, Mocha
